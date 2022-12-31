@@ -1,0 +1,17 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"C4,C8,C10,C9,C5,C12,C7,C2,C3,C6,C11";"C_Rect_L4.0mm_W2.5mm_P2.50mm";11;"104";;;
+2;"J1,J2";"PinHeader_2x25_P2.54mm_Vertical";2;"Conn_02x25_Odd_Even";;;
+3;"J3";"BarrelJack_Horizontal";1;"+5 VDC";;;
+4;"J5";"PinHeader_1x08_P2.54mm_Vertical";1;"Status 0:7";;;
+5;"J6";"PinHeader_1x08_P2.54mm_Vertical";1;"Control";;;
+6;"J7";"PinHeader_1x08_P2.54mm_Vertical";1;"Register Select";;;
+7;"RN2,RN1,RN3";"R_Array_SIP10";3;"220/330";;;
+8;"U2,U11,U1,U10";"DIP-20_W7.62mm";4;"74LS574";;;
+9;"U8,U4,U9";"DIP-14_W7.62mm";3;"74LS74";;;
+10;"U7,U6";"DIP-20_W7.62mm_Socket";2;"74LS541";;;
+11;"C1";"CP_Radial_D8.0mm_P2.50mm";1;"470/16";;;
+12;"U3";"DIP-14_W7.62mm";1;"74LS04";;;
+13;"U5";"DIP-14_W7.62mm";1;"74LS280";;;
+14;"J4";"PinHeader_1x08_P2.54mm_Vertical";1;"Data 0:7";;;
+15;"D1";"D_DO-41_SOD81_P10.16mm_Horizontal";1;"1N5817";;;
+16;"J8";"PinHeader_1x02_P2.54mm_Vertical";1;"MCU Power";;;
